@@ -1,0 +1,36 @@
+# Nmap 7.95 scan initiated Sun Jun  8 02:00:51 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -O -oN port_scan_remaining.txt 192.168.0.101 192.168.0.104 192.168.0.108 192.168.0.110 192.168.0.113
+Nmap scan report for 192.168.0.101
+Host is up (0.025s latency).
+All 1000 scanned ports on 192.168.0.101 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 3A:DE:E0:B5:3F:8B (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|media device|specialized
+Running: Microsoft Windows 10|11|2016, Microsoft Xbox 360, NTI embedded
+OS CPE: cpe:/o:microsoft:windows_10 cpe:/o:microsoft:windows_11 cpe:/o:microsoft:windows_server_2016 cpe:/h:microsoft:xbox_360_kernel
+OS details: Microsoft Windows 10 - 11, Microsoft Windows Server 2016, Microsoft Xbox 360 Dashboard, NTI E-MICRO-TRHP temperature sensor
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.0.104
+Host is up (0.12s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT      STATE SERVICE    VERSION
+49152/tcp open  tcpwrapped
+62078/tcp open  tcpwrapped
+MAC Address: 7A:D2:48:27:9F:58 (Unknown)
+Device type: phone
+Running: Apple iOS 15.X
+OS CPE: cpe:/o:apple:iphone_os:15
+OS details: Apple iOS 15.0 - 15.6 (Darwin 21.1.0 - 21.6.0)
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.0.113
+Host is up (0.022s latency).
+All 1000 scanned ports on 192.168.0.113 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 2A:94:B2:61:DB:33 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jun  8 02:01:38 2025 -- 5 IP addresses (3 hosts up) scanned in 46.90 seconds

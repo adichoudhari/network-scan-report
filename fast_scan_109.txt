@@ -1,0 +1,12 @@
+# Nmap 7.95 scan initiated Sun Jun  8 01:59:02 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -O --max-retries 2 --host-timeout 60s --top-ports 100 -oN fast_scan_109.txt 192.168.0.109
+Nmap scan report for 192.168.0.109
+Host is up (0.12s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT     STATE    SERVICE VERSION
+5060/tcp filtered sip
+MAC Address: C0:47:54:5F:A3:C9 (vivo Mobile Communication)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jun  8 01:59:08 2025 -- 1 IP address (1 host up) scanned in 5.66 seconds

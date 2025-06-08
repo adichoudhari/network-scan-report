@@ -1,0 +1,31 @@
+# Nmap 7.95 scan initiated Sun Jun  8 01:43:23 2025 as: /usr/lib/nmap/nmap --privileged -sn -oN host_scan.txt 192.168.0.0/24
+Nmap scan report for 192.168.0.1
+Host is up (0.21s latency).
+MAC Address: 3C:52:A1:00:0B:02 (TP-Link Limited)
+Nmap scan report for 192.168.0.100
+Host is up (0.84s latency).
+MAC Address: BC:6B:FF:D6:F9:61 (Guangzhou Shiyuan Electronic Technology Company Limited)
+Nmap scan report for 192.168.0.101
+Host is up (0.21s latency).
+MAC Address: 3A:DE:E0:B5:3F:8B (Unknown)
+Nmap scan report for 192.168.0.104
+Host is up (0.37s latency).
+MAC Address: 7A:D2:48:27:9F:58 (Unknown)
+Nmap scan report for 192.168.0.108
+Host is up (0.42s latency).
+MAC Address: DA:E5:C5:90:4F:AA (Unknown)
+Nmap scan report for 192.168.0.109
+Host is up (0.63s latency).
+MAC Address: C0:47:54:5F:A3:C9 (vivo Mobile Communication)
+Nmap scan report for 192.168.0.110
+Host is up (3.5s latency).
+MAC Address: FA:E7:B5:B7:D1:CD (Unknown)
+Nmap scan report for 192.168.0.113
+Host is up (3.5s latency).
+MAC Address: 2A:94:B2:61:DB:33 (Unknown)
+Nmap scan report for 192.168.0.118
+Host is up (0.00019s latency).
+MAC Address: 80:B6:55:FE:7A:9F (Intel Corporate)
+Nmap scan report for 192.168.0.117
+Host is up.
+# Nmap done at Sun Jun  8 01:43:36 2025 -- 256 IP addresses (10 hosts up) scanned in 13.45 seconds
